@@ -3,12 +3,20 @@
 ---
 
 
-# About me
+# About Me
 
 I'm Benjamin Sillman, a Software Engineering student at UWEC with a minor in AI.
+
+![](colorado.jpeg) ![](portugal.jpeg) ![](banff.jpeg)
 
 ## What I'm Learning
 
 - Java
 - HTML
-- SQL and databases
+- SQL and database systems
+
+## Interests
+
+- Learning
+- Traveling
+- Gaming
