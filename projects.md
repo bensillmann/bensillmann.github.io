@@ -14,3 +14,9 @@ This Python program written in Jupyter notebook displays a comparison between NB
 This is an app I started building for people to practice cold calling with AI agents 
 
 [Cold IQ](https://coldiq.netlify.app)
+
+## Firstline AI
+
+This is a business that I started building a suite of AI products for service based business owners
+
+[Firstline AI](https://firstlineai.org)
