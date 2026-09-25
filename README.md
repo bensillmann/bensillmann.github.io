@@ -7,7 +7,7 @@
 
 I'm Benjamin Sillman, a Software Engineering student at UWEC with a minor in AI.
 
-![](colorado.jpeg){: width="150"} ![](portugal.jpeg){: width="150"} ![](banff.jpeg){: width="150"}
+![](colorado.jpeg){: width="200"} ![](portugal.jpeg){: width="200"} ![](banff.jpeg){: width="200"}
 
 ## What I'm Learning
 
